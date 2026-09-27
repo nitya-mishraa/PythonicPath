@@ -2,11 +2,19 @@
 
 # 🐍 PythonicPath
 
-*A trail of every LeetCode problem I've solved — one commit at a time.*
+### *Every problem solved. Every path traced.*
+
+```
+   ┌──────────────┐        ┌──────────────┐        ┌──────────────┐
+   │   LeetCode   │  ───▶  │   LeetSync   │  ───▶  │    GitHub    │
+   │   Solved ✅  │        │  Auto-Push   │        │   Committed  │
+   └──────────────┘        └──────────────┘        └──────────────┘
+```
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-Synced-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![Powered by](https://img.shields.io/badge/Powered%20by-LeetHub%20v2-black?style=for-the-badge&logo=github)
+![Powered by](https://img.shields.io/badge/Powered%20by-LeetSync-black?style=for-the-badge&logo=github)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -22,7 +30,7 @@ It's not a curated highlight reel. It's the real record: the rough first attempt
 
 ## ⚙️ How it stays updated
 
-Solutions land here automatically via **[LeetHub v2](https://github.com/arnavbansal9/LeetHub-2.0)** — the moment a submission is accepted on LeetCode, it gets pushed straight into this repo. No dashboards to babysit, no "I'll upload it later."
+Solutions land here automatically via **LeetSync** — the moment a submission is accepted on LeetCode, it gets pushed straight into this repo. No dashboards to babysit, no "I'll upload it later."
 
 ---
 
@@ -31,13 +39,13 @@ Solutions land here automatically via **[LeetHub v2](https://github.com/arnavban
 ```
 PythonicPath/
 │
-├── arrays/
-├── strings/
-├── dynamic-programming/
-├── graphs/
-├── trees/
-├── linked-lists/
-├── backtracking/
+├── 📁 arrays/
+├── 📁 strings/
+├── 📁 dynamic-programming/
+├── 📁 graphs/
+├── 📁 trees/
+├── 📁 linked-lists/
+├── 📁 backtracking/
 ```
 
 Each file carries the problem name, its difficulty, and a link back to the original LeetCode problem.
